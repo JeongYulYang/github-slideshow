@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “Welcome to our second slide!”
+title: “테스트 입니다”
 ---
 Your test
 Use the left arrow to go back!
